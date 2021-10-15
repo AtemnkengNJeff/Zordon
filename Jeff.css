@@ -1,0 +1,11 @@
+p.name{	
+    font-size: 20pt;
+	font-color: white;
+	background-color: Light Blue;
+	font-weight: bold;
+	text-align: center;
+}
+p.preface{
+	text-align: left;
+	font-family: arial;
+}
